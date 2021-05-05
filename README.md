@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@tendaimusakanye](https://github.com/tendaimusakanye)
 - 👀 I’m interested in native mobile application development particularly android.
--  👌 I fancy developing using either Java or Kotlin
+-  👌  Writing robust, scalable, readable & maintainable code is a way of life. 
 - 🌱 I’m currently enhancing my android development skills by building a full featured music application [TrackBud](https://github.com/tendaimusakanye/TrackBud) and I would really love to collaborate on that. 
 
 
